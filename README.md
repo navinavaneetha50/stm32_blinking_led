@@ -318,6 +318,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
+image
+<img width="1080" height="1120" alt="image" src="https://github.com/user-attachments/assets/4849ba88-2e52-4498-a531-594e28c60003" />
+
 circuit diagram
 <img width="762" height="637" alt="image" src="https://github.com/user-attachments/assets/fd75ae36-8efc-48fb-9a2d-4baf895c1a55" />
 
